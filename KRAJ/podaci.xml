@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Usluge>
+    <Usluga>
+        <Naziv>Rezanje</Naziv>
+        <Cena>500</Cena>
+    </Usluga>
+    <Usluga>
+        <Naziv>Bušenje</Naziv>
+        <Cena>350</Cena>
+    </Usluga>
+    <Usluga>
+        <Naziv>Glodanje</Naziv>
+        <Cena>400</Cena>
+    </Usluga>
+</Usluge>
