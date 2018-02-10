@@ -102,7 +102,6 @@ error_reporting(0);
 		?>
 <html>
 	<head>
-        
 		<title>Admin panel</title>
 		<link rel="stylesheet" type="text/css" href="stil.css"/>
 	</head>
