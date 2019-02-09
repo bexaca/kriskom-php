@@ -113,7 +113,6 @@ $_SESSION['korisnik'];
                             </tr>
                         </table>
                     </form>
-				
                 </div>
                 </div>
                 <div id="cistac">

@@ -8,7 +8,7 @@
 	$password=mysql_real_escape_string($password);
 	 
 	mysql_connect("localhost", "root", "");
-	mysql_select_db("login");
+	mysql_select_db("test1");
 	
 	$result=mysql_query("select* from users where username='$username' and password='$password'") or die("Failed to query database".mysql_error());
 	$row=mysql_fetch_array($result);
